@@ -1,3 +1,34 @@
+### 👋 &nbsp; Hi 
+
+```javascript
+const allAboutMe = {
+  name: {
+      pronouns: 'he/him',
+      first: "Igor",
+      last: "Gulak"
+   },
+   languages: ['CSS/SASS', 'TypeScript', 'JavaScript'],
+   experience: {
+      incoming: 'Customer Success, AKT Software, March 2022 - July 2022',
+      past: [
+        'Help Desk, Muffato, Nov 2021 - March 2022',
+      ],
+      education: 'Computer Science, UTFPR, 2018 - 2018'
+   },
+   workingOn: 'Mangangaba Softwares',
+   learning: 'All things from Angular',
+   socials: {
+      instagram: 'http://instagram/server.mangangaba',
+   },
+   favorites: {
+      song: 'QOTSA',
+      movie: 'Free To Play: The Movie (International)',
+      game: 'Portal 2',
+      book: 'Racionais MCs: Sobrevivendo no Inferno'
+   }
+}
+```
+
 ## 🐝 &nbsp;Social Links
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/a2041545)
